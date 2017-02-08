@@ -17,7 +17,7 @@ sudo pip install ansible
 git clone https://github.com/Condla/ansible-playground.git
 cd ansible-playground/raspbian-bootstrap/
 
-## Configure IP address in "hosts" file. If you have more than one Raspberry Pi, add more lines and enter details
+!! Configure IP address in "hosts" file. If you have more than one Raspberry Pi, add more lines and enter details !!
 
 ## Execute playbook
 ./playbook.yml
